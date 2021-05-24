@@ -1,0 +1,16 @@
+CREDENZIALI UTENTE:
+1)Email
+  nadiaorlando97@gmail.com   
+  Password
+  Ciao1
+
+2)Email
+  maria@hotmail.com   
+  Password
+  Ciao3
+
+CREDENZIALI ADMIN:
+1)Email
+  nadia@libero.it  
+  Password
+  Ciao2
